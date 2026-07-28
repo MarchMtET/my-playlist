@@ -823,3 +823,126 @@ https://www.inwiptv.com/player_demo.php?channel=89429
 
 #EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/98AX1209203" group-title="สารคดี",CABLE CHANNEL 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="หนัง",CCM
+https://dookeela.live/live-tv/ccm
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/bcfd3840-e18e-11ec-9395-ffdbbc2b7b61_webp_original.png" group-title="หนัง",TVB XING HE
+https://dookeela.live/live-tv/tvbclassichd
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Screenshot_20240115_121806_Gallery-removebg-preview.png" group-title="หนัง",TVB ไทย
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png" group-title="หนัง",CHANNEL 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/qU8i654252" group-title="หนัง",3BB ASIAN
+https://dookeela.live/live-tv/3bbasian
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/F4Lv936444" group-title="หนัง",MONO29 PLUS +
+https://dookeela.live/live-tv/mono29plus
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505" group-title="หนัง",HBO
+https://dookeela4.live/live-tv/hbo
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305" group-title="หนัง",HBO HIT
+https://dookeela.live/live-tv/hbo-hits
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/lIoW654253" group-title="หนัง",HBO FAMILY
+https://dookeela.live/live-tv/hbo-family
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/lZJM654254" group-title="หนัง",HBO SIGNATURE
+https://dookeela.live/live-tv/hbo-signature
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="หนัง",CINEMAX
+https://dookeela.live/live-tv/cinemax
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="หนัง",TRUE FILM 1
+https://dookeela.live/live-tv/truefilm1
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="หนัง",TRUE FILM 2
+https://dookeela.live/live-tv/truefilm2
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png" group-title="หนัง",TRUE THAI FILM
+https://dookeela.live/live-tv/truethaifilm
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="หนัง",TRUE FILM ASIA
+https://dookeela.live/live-tv/truefilmasia
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="หนัง",TRUE MOVIE HITS
+https://dookeela.live/live-tv/truemoviehits
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png" group-title="หนัง",TRUE ASIAN MORE
+https://dookeela.live/live-tv/trueasianmore
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="หนัง",TRUE SERIES
+https://dookeela.live/live-tv/trueseries
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png" group-title="หนัง",TRUE 4 U
+https://dookeela.live/live-tv/true4u
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/46fb6.png" group-title="หนัง",TRUE X-ZYTE
+https://dookeela.live/live-tv/truex-zyte
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow.png" group-title="หนัง",ROCK ENTERTAINMENT
+https://dookeela.live/live-tv/rock-entertainment
+
+#EXTINF:-1 tvg-logo="https://img.pic.in.th/Rock_Action.png" group-title="หนัง",ROCK ACTION
+https://dookeela.live/live-tv/rock-action
+
+#EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/hits.png" group-title="หนัง",HITS
+https://dookeela.live/live-tv/hits
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="หนัง",HITS MOVIES
+https://dookeela.live/live-tv/hits-movies
+
+#EXTINF:-1 tvg-logo="https://www.hitsnow.tv/assets/hits-now-logo-white.png" group-title="หนัง",HITS NOW
+https://dookeela.live/live-tv/hitsnow
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/J2aK654255" group-title="หนัง",AXN
+https://dookeela.live/live-tv/axn
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="หนัง",WARNER TV
+https://dookeela.live/live-tv/warnertv
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/q2OH654256" group-title="หนัง",PARAMOUNT NETWORK
+https://dookeela.live/live-tv/paramount-network
+
+#EXTINF:-1 tvg-logo="https://www.crimeandinvestigation.co.uk/themes/custom/crimeandinvestigation/images/logo.png" group-title="หนัง",CRIME + INVESTIGATION
+https://dookeela.live/live-tv/crime-investigation
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/RpP6654258" group-title="หนัง",KBS WORLD
+https://dookeela.live/live-tv/kbsworld
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png" group-title="หนัง",TVN
+https://dookeela.live/live-tv/tvn-indonesia
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/7Mmf936081" group-title="หนัง",TVN MOVIES
+https://dookeela.live/live-tv/tvn-movies
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0170.png" group-title="หนัง",คูล ชาแนล
+https://live-iptv.cool-channel.com/cool/live-manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/XUmD654261" group-title="หนัง",SIAM NEWS
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/6CRS654262" group-title="หนัง",MOUNCHON TV
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/Ecy3654246" group-title="หนัง",FW MOV
+https://www.inwiptv.com/player_demo.php?channel=95262
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/soJS654247" group-title="หนัง",FW SOV
+https://www.inwiptv.com/player_demo.php?channel=94898
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/N8yZ936105" group-title="หนัง",FW TOON
+https://www.inwiptv.com/player_demo.php?channel=89780
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png" group-title="หนัง",GAGS
+https://www.inwiptv.com/player_demo.php?channel=89781
