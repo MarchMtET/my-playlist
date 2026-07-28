@@ -294,3 +294,393 @@ https://mvtv.co.th/play/play_mvtv.php?no=195&channel=V%20TV%20News
 #EXTINF:-1 tvg-name="Mango Mojito" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",Mango Mojito
 #EXTVLCOPT:http-referrer=https://mvtv.co.th/
 https://mvtv.co.th/play/play_mvtv.php?no=188&channel=Mango%20Mojito
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/3hd.png" group-title="ดิจิตอลทีวี",CH 3 HD
+https://hls.iptv-th.workers.dev/live/127/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/5hd.png" group-title="ดิจิตอลทีวี",CH 5 HD
+https://hls.iptv-th.workers.dev/live/128/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/7hd.png" group-title="ดิจิตอลทีวี",CH 7 HD
+https://hls.iptv-th.workers.dev/live/129/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/8.png" group-title="ดิจิตอลทีวี",CH 8
+https://hls.iptv-th.workers.dev/live/131/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mcot.png" group-title="ดิจิตอลทีวี",MCOT HD
+https://hls.iptv-th.workers.dev/live/133/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/nbt.png" group-title="ดิจิตอลทีวี",NBT
+https://hls.iptv-th.workers.dev/live/136/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CAJw7MUj99UhevPkGY0kbT0ER33XBhethairath.png" group-title="ดิจิตอลทีวี",Thai Rath HD
+https://hls.iptv-th.workers.dev/live/141/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/tnn.png" group-title="ดิจิตอลทีวี",TNN 24
+https://hls.iptv-th.workers.dev/live/142/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/one.png" group-title="ดิจิตอลทีวี",ONE HD
+https://hls.iptv-th.workers.dev/live/138/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/thaipbs.png" group-title="ดิจิตอลทีวี",Thai PBS
+https://hls.iptv-th.workers.dev/live/140/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/topnews.png" group-title="ดิจิตอลทีวี",Top News
+https://hls.iptv-th.workers.dev/live/143/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/pptv.png" group-title="ดิจิตอลทีวี",PPTV HD
+https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/amarin.png" group-title="ดิจิตอลทีวี",Amarin TV HD
+https://hls.iptv-th.workers.dev/live/130/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/workpoint.png" group-title="ดิจิตอลทีวี",Work Point TV
+https://hls.iptv-th.workers.dev/live/146/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/gmm.png" group-title="ดิจิตอลทีวี",GMM 25
+https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mono.png" group-title="ดิจิตอลทีวี",MONO 29
+https://hls.iptv-th.workers.dev/live/134/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sYyiuEg5rNUช่อง.jpg" group-title="กีฬา",Mono Max 1
+https://hls.iptv-th.workers.dev/live/355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/Xg7D41W9nCAช่อง.jpg" group-title="กีฬา",Mono Max 2
+https://hls.iptv-th.workers.dev/live/358/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/QoZvad55JuEช่อง.jpg" group-title="กีฬา",Mono Max 3
+https://hls.iptv-th.workers.dev/live/361/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/0eAd5tyAknjLzQYJ130JXHprvGebTILZ2VuixrZ4ydkXWj2PNFPBFqG23HgU8eUntitled-1.jpg" group-title="กีฬา",Bein sport 1 Premium
+https://hls.iptv-th.workers.dev/live/323/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein1.png" group-title="กีฬา",Bein sport 1 HD
+https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein2.png" group-title="กีฬา",Bein sport 2 HD
+https://hls.iptv-th.workers.dev/live/52/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="กีฬา",Bein sport 3 HD
+https://hls.iptv-th.workers.dev/live/53/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/mutv.png" group-title="กีฬา",mutv
+https://hls.iptv-th.workers.dev/live/162/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/LFC-TV.png" group-title="กีฬา",LFC TV
+https://hls.iptv-th.workers.dev/live/161/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/1rsDhCMds4Pช่อง.jpg" group-title="กีฬา",Real Madrid TV
+https://hls.iptv-th.workers.dev/live/430/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/A47xxydQNoaUntitled-2.jpg" group-title="กีฬา",Golf Channel HD
+https://hls.iptv-th.workers.dev/live/176/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/9WrcKirn4Urช่อง.jpg" group-title="กีฬา",PGA Tour
+https://hls.iptv-th.workers.dev/live/540/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/2DeiGAp6jUfช่อง.jpg" group-title="กีฬา",LPGA
+https://hls.iptv-th.workers.dev/live/541/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/RyAK57buQ0fช่อง.jpg" group-title="กีฬา",DP World TOUR
+https://hls.iptv-th.workers.dev/live/542/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",True Sport HD
+https://hls.iptv-th.workers.dev/live/79/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd2.png" group-title="กีฬา",True Sport HD 2
+https://hls.iptv-th.workers.dev/live/147/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="กีฬา",True Sport HD 3
+https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="กีฬา",True Sport HD 4
+https://hls.iptv-th.workers.dev/live/80/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="กีฬา",True Sport 5
+https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd7.png" group-title="กีฬา",True Sport 7
+https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truetennis.png" group-title="กีฬา",True Tennis HD
+https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="กีฬา",Spotv1
+https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/MjjNBcRjUcAq8qMlGMLE5lD97u28Quzspotv2.png" group-title="กีฬา",Spotv2
+https://hls.iptv-th.workers.dev/live/96/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truepremiere3.png" group-title="กีฬา",Premier HD3
+https://hls.iptv-th.workers.dev/live/124/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/Rbms5GimDHszosBl7l9ZVZv4wwG9H1Wช่อง-Recovered.jpg" group-title="กีฬา",NFL 1
+https://hls.iptv-th.workers.dev/live/89/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/89FSeDGMSQRijQFT2nj4X6wgQNzljSDช่อง-Recovered.jpg" group-title="กีฬา",NFL 2
+https://hls.iptv-th.workers.dev/live/415/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/eio5tnTKwl4gl0l0meXVKfxDdnGrDUdช่อง.jpg" group-title="กีฬา",Fight Network
+https://hls.iptv-th.workers.dev/live/427/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/iOrUIt3LGxXช่อง.jpg" group-title="กีฬา",One Lumpinee
+https://hls.iptv-th.workers.dev/live/352/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/v1XI4EwjicwHKignbBYmolcLAkHMMd4Euro-sport.png" group-title="กีฬา",Euro Sport
+https://hls.iptv-th.workers.dev/live/45/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/NzRKXEx07Rzช่อง.jpg" group-title="กีฬา",Mono Max 4
+https://hls.iptv-th.workers.dev/live/364/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/MOuJODtQ5i0089TSeV4p0bKviltoeUM14.jpg" group-title="กีฬาต่างประเทศ",Sky Sports Main Event
+https://hls.iptv-th.workers.dev/live/164/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/Gl0Mfj9gUj648o9fZm7IXsKAj5lp5x0ช่อง.jpg" group-title="กีฬาต่างประเทศ",Sky Sports Main Event
+https://hls.iptv-th.workers.dev/live/165/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/uHYJ136qZj1SEtn93MqfQrCmcdNxeMNredbull.png" group-title="กีฬาต่างประเทศ",Red Bull TV
+https://hls.iptv-th.workers.dev/live/93/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/Fox-sport-1-USA.png" group-title="กีฬาต่างประเทศ",Fox sport 1 USA
+https://hls.iptv-th.workers.dev/live/157/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/Fox-sport-2-USA.png" group-title="กีฬาต่างประเทศ",Fox sport 2 USA
+https://hls.iptv-th.workers.dev/live/159/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/oVnNj5ovkHBPn90HUMidcv0UH9NZkSqUntitled-1.jpg" group-title="กีฬาต่างประเทศ",TNT Sports
+https://hls.iptv-th.workers.dev/live/151/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/KPrt7rZtVKTFNHM86slRod47KCZ4QFRUntitled-1.jpg" group-title="กีฬาต่างประเทศ",TNT Sports 2
+https://hls.iptv-th.workers.dev/live/152/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/yumXVYLMNdaiOcclQy14rrDFlb4DJqrUntitled-1.jpg" group-title="กีฬาต่างประเทศ",TNT Sports 3
+https://hls.iptv-th.workers.dev/live/153/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/ESPN-US.png" group-title="กีฬาต่างประเทศ",ESPN US
+https://hls.iptv-th.workers.dev/live/155/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CXMc2dLCjRriySvYYbchFYEezjrTgFsUntitled-1.jpg" group-title="กีฬาต่างประเทศ",TNT Sports 4
+https://hls.iptv-th.workers.dev/live/154/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/Sky-sport-F1.png" group-title="กีฬาต่างประเทศ",Sky sport F1
+https://hls.iptv-th.workers.dev/live/166/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/Sky-sport-football.png" group-title="กีฬาต่างประเทศ",Sky sport football
+https://hls.iptv-th.workers.dev/live/167/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/Sky-Sport-Golf.png" group-title="กีฬาต่างประเทศ",Sky Sport Golf
+https://hls.iptv-th.workers.dev/live/168/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/Sky-sport-mix.png" group-title="กีฬาต่างประเทศ",Sky sport mix
+https://hls.iptv-th.workers.dev/live/169/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/0f2M4u6qJhzช่อง.jpg" group-title="ข่าวต่างประเทศ",Fox News
+https://hls.iptv-th.workers.dev/live/421/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/kuMhoXcZhUiช่อง.jpg" group-title="ข่าวต่างประเทศ",Fox Business
+https://hls.iptv-th.workers.dev/live/424/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/OfdIVgwT2z37JushUjrBKuHupl2ZuXhaljazeera.png" group-title="ข่าวต่างประเทศ",Aljazeera
+https://hls.iptv-th.workers.dev/live/46/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/knNairwWVxGRGlyQKbkWnJmu6r64zcWUntitled-1.jpg" group-title="ข่าวต่างประเทศ",Australia Network ABC
+https://hls.iptv-th.workers.dev/live/47/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/O3xeqWC09NE7nNz9Cwr9IGLZTqxjkwwbbcnews.png" group-title="ข่าวต่างประเทศ",BBC News
+https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/gtto7ncVZ9FpJdIMhLPdKDHKeu03eNEcnn.png" group-title="ข่าวต่างประเทศ",CNN
+https://hls.iptv-th.workers.dev/live/56/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/AhM2QQMguVntmxzQCGx4RUh5noGEa8sUntitled-1-Recovered.jpg" group-title="ข่าวต่างประเทศ",CNBC
+https://hls.iptv-th.workers.dev/live/244/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/KIRPvITufE2HQJxGUDutfgEzIZcrVwknhk.png" group-title="ข่าวต่างประเทศ",NHK
+https://hls.iptv-th.workers.dev/live/90/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/GG7O8vEuwZxUntitled-1.jpg" group-title="ข่าวต่างประเทศ",RT - Breaking News
+https://hls.iptv-th.workers.dev/live/270/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/J8k35CRWSARUntitled-1.jpg" group-title="ข่าวต่างประเทศ",CGTN
+https://hls.iptv-th.workers.dev/live/272/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/vhXW2dqbDoVUntitled-1.jpg" group-title="ข่าวต่างประเทศ",CNA
+https://hls.iptv-th.workers.dev/live/273/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/20krEYgISTOUntitled-1.jpg" group-title="ข่าวต่างประเทศ",Euronews
+https://hls.iptv-th.workers.dev/live/274/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/yAhmgFfF98uUntitled-1.jpg" group-title="ข่าวต่างประเทศ",DW
+https://hls.iptv-th.workers.dev/live/275/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/F7geClvzmPKUntitled-1.jpg" group-title="ข่าวต่างประเทศ",France 24
+https://hls.iptv-th.workers.dev/live/276/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/udUv8r8BboRUntitled-1.jpg" group-title="ข่าวต่างประเทศ",News1
+https://hls.iptv-th.workers.dev/live/277/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/LFSdjTsYgf3Untitled-1.jpg" group-title="ข่าวต่างประเทศ",HLN - CNN
+https://hls.iptv-th.workers.dev/live/282/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/uI7QEkW0psShls.webp" group-title="ข่าวต่างประเทศ",hls
+https://hls.iptv-th.workers.dev/live/448/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/yyXcdVEDUhL8YOcH9hmvHHp4JSq4rH0Untitled-1.jpg" group-title="บันเทิง",Rock Entertainment
+https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/cPv75zm9B3WiGtFrAjl2U1AInA4IpoAUntitled-1.jpg" group-title="บันเทิง",ROCK Action
+https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/fasionone.png" group-title="บันเทิง",Fashion one
+https://hls.iptv-th.workers.dev/live/35/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/IbbwhGuE0fIO2qvs0QVIHnNplrHsmG5Untitled-1.jpg" group-title="บันเทิง",Food Network Asia
+https://hls.iptv-th.workers.dev/live/36/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/2ViJvwI2jKQyt3wmFPZnGSV8P8mYaQbUntitled-1.jpg" group-title="บันเทิง",Asian food network AFN
+https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/lifetimehd.png" group-title="บันเทิง",Liifetime HD
+https://hls.iptv-th.workers.dev/live/40/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/qwdjcyFPMEcB8ZZ2i6vHIc4uZW3VnC5download_(1).png" group-title="บันเทิง",BBC Lifestyle
+https://hls.iptv-th.workers.dev/live/49/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/wVCVw7L69dRUntitled-1-Recovered.jpg" group-title="บันเทิง",Arirang
+https://hls.iptv-th.workers.dev/live/245/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/RDNUpjevvyvJFFLteyFNsKl55YCGfrvUntitled-1.jpg" group-title="บันเทิง",CCTV 4
+https://hls.iptv-th.workers.dev/live/271/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/3ko8ZsA3hGfMQ662DxEzMRxRudiouC9kbs_(1).png" group-title="บันเทิง",KBS World
+https://hls.iptv-th.workers.dev/live/83/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/truexzyte.png" group-title="บันเทิง",True Xzyte
+https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/slJFS0oWHIpUntitled-1.jpg" group-title="บันเทิง",TechStorm TV
+https://hls.iptv-th.workers.dev/live/280/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/fUH4QXVIvl6ช่อง.jpg" group-title="บันเทิง",Mono Music
+https://hls.iptv-th.workers.dev/live/343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbo.png" group-title="ภาพยนตร์",HBO HD Thai
+https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbohits.png" group-title="ภาพยนตร์",HBO Hit
+https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbosig.png" group-title="ภาพยนตร์",HBO Signature
+https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbofamily.png" group-title="ภาพยนตร์",HBO Family
+https://hls.iptv-th.workers.dev/live/65/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/axn.png" group-title="ภาพยนตร์",AXN HD
+https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/ePP8UaRIcYsmjtmNcbGrN9pXvcChPTZdreamwork.png" group-title="ภาพยนตร์",Dreamwork
+https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/cinemax.png" group-title="ภาพยนตร์",Cinemax
+https://hls.iptv-th.workers.dev/live/62/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/wbtv.png" group-title="ภาพยนตร์",Warner TV
+https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/JP8JpTXuXBScqgUTdSv29pfWuoBGaH0moviehits_(1).png" group-title="ภาพยนตร์",True Movie Hits
+https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/h2vv1IuK5HG1NLi6SGFJh248qYS8JIetruefilmhd.png" group-title="ภาพยนตร์",True Film HD
+https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/y3ezDIC5r6qtdqjzTkdIbvsFhGbuK8struefilmhd2_(1).png" group-title="ภาพยนตร์",True Film HD2
+https://hls.iptv-th.workers.dev/live/102/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/truethaifilm.png" group-title="ภาพยนตร์",True Thai Film
+https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/XaSIO94qGjzo3e5EF94PKAXkHvrecl0trueasianmore_(1).png" group-title="ภาพยนตร์",True Asian More
+https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/oaAofV5K9iC2NrblejU5gX645lMBHjftruefilmasia.png" group-title="ภาพยนตร์",True Film Asia
+https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/lCrOElry5MTJ3aGNq3GN8UlIRQ7LS4rtrueseries.png" group-title="ภาพยนตร์",True Series
+https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CgLZMVLSZKNMMeGb1H5n2iiN37ODTzl3-logo-3BB-Asian-ช่องรายการ_370x180_(1).jpeg" group-title="ภาพยนตร์",3BB Asia
+https://hls.iptv-th.workers.dev/live/44/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sbLMUWTMUljJyAYYGs1oMA5qgbFuCKNgem.jpeg" group-title="ภาพยนตร์",GEM
+https://hls.iptv-th.workers.dev/live/37/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/ccm.png" group-title="ภาพยนตร์",Celestial Classic Movies
+https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/TTIFlFQ8xRhMER7ANQbCblXgC85tebNcartoonito.png" group-title="การ์ตูน",AniPlus
+https://hls.iptv-th.workers.dev/live/31/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/cartoon/cn.png" group-title="การ์ตูน",Cartoon Network
+https://hls.iptv-th.workers.dev/live/54/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/6fB249brsMvtDLJxoeJLshqd0FaWAqJUntitled-1.jpg" group-title="การ์ตูน",Nick Kids
+https://hls.iptv-th.workers.dev/live/91/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/cartoon/truesparkplay.png" group-title="การ์ตูน",True Spark Play
+https://hls.iptv-th.workers.dev/live/114/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/7qI4lXeWpRMUntitled-1.jpg" group-title="การ์ตูน",Boomerang
+https://hls.iptv-th.workers.dev/live/219/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/70RP1g9xfXtUntitled-1.jpg" group-title="การ์ตูน",Nick Jr
+https://hls.iptv-th.workers.dev/live/292/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/discovery.png" group-title="สารคดี",Discovery Channel
+https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/history.png" group-title="สารคดี",History HD
+https://hls.iptv-th.workers.dev/live/74/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/dbLFi1PM8pqrH4pVCbR3HxZmYdQQP0z1245.jpg" group-title="สารคดี",Animal show
+https://hls.iptv-th.workers.dev/live/329/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/luEFfyPlScmkXkYpGjpUc2IGyaDmMSWUntitled-1.jpg" group-title="สารคดี",Animal Planet
+https://hls.iptv-th.workers.dev/live/66/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/YLUgvxqoWIjDt2txblBTAHYXFZ6xnMPdiscoveryasia.png" group-title="สารคดี",Discovery Asia
+https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/cQiU4gTwIa9samrujlok.png" group-title="สารคดี",สำรวจโลก
+https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/3QMYaUybddn1224556.jpg" group-title="สารคดี",Thainess
+https://hls.iptv-th.workers.dev/live/332/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sMqTXBdzOao123.jpg" group-title="สารคดี",Thai ของดีประเทศไทย
+https://hls.iptv-th.workers.dev/live/335/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/trueexplorerlife.png" group-title="สารคดี",True Explore Life
+https://hls.iptv-th.workers.dev/live/110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/trueexplorersci.png" group-title="สารคดี",True Explore SCI
+https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/vuTpeJWnlrR6q6k2IIdEOQlUQWBhUkjlove4knature.png" group-title="สารคดี",Love Nature 4K
+https://hls.iptv-th.workers.dev/live/41/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/trueexplorerwild.png" group-title="สารคดี",True Explore Wild
+https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/vZ1unU6TY8EUntitled-1.jpg" group-title="สารคดี",RT Documentary
+https://hls.iptv-th.workers.dev/live/269/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/tlc.png" group-title="สารคดี",TLC
+https://hls.iptv-th.workers.dev/live/78/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/fHbwcuPs4KHci.png" group-title="สารคดี",CI
+https://hls.iptv-th.workers.dev/live/55/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/uYjgVMBjGBFUntitled-2.jpg" group-title="สารคดี",MySci
+https://hls.iptv-th.workers.dev/live/211/playlist.m3u8
