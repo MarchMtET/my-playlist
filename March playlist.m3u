@@ -989,3 +989,80 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/lbi2667158" group-title="เพลง",MTV
 https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="การ์ตูน",ANIPLUS
+https://dookeela2.live/live-tv/anipluschannel
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/2560px-Animax_logo.svg.png" group-title="การ์ตูน",ANIMAX
+https://dookeela.live/live-tv/animax
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/bJyd667161" group-title="การ์ตูน",DREAM WORKS
+https://dookeela.live/live-tv/dreamworks
+
+#EXTINF:-1 tvg-logo="https://www.animationkolkata.com/blog/wp-content/uploads/2016/08/tumblr_m4ksayhoaZ1qbbs8oo1_500.gif" group-title="การ์ตูน",CARTOON NETWORK
+https://dookeela.live/live-tv/cartoon-network
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/1/18/Nick_Jr.-2023.png/revision/latest?cb=20230816184054" group-title="การ์ตูน",NICK JR.
+https://dookeela.live/live-tv/nickjr
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="การ์ตูน",NICKELODEON
+https://dookeela.live/live-tv/nickelodeon
+
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png" group-title="การ์ตูน",TRUE SPARK PLAY
+https://dookeela.live/live-tv/truesparkplay
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/BoomThailand2025.png/revision/latest/scale-to-width-down/250?cb=20250527152055" group-title="การ์ตูน",BOOM
+https://aisplay.ais.co.th/portal/live?vid=597dfea47ed5a24e46f67259
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/N8yZ936105" group-title="การ์ตูน",FW TOON
+https://www.inwiptv.com/player_demo.php?channel=89780
+
+#EXTINF:-1 tvg-logo="https://media0.giphy.com/media/QVU2cFKZbplZHmydFk/giphy.gif?cid=6c09b9529o5pf0ld6argtflw89w68t6b5iswkb7y4nzgrm4k&rid=giphy.gif&ct=s" group-title="การ์ตูน",DISNEY CHANNEL
+https://dookeela.live/live-tv/disney-channel
+
+#EXTINF:-1 tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266425.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="การ์ตูน",DISNEY JUNIOR
+https://dookeela.live/live-tv/disney-junior
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/8Rm21103603" group-title="การ์ตูน",DISNEY XD
+https://dookeela.live/live-tv/disneyxd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="การ์ตูน",MOONBUG
+https://dookeela.live/live-tv/moonbug
+
+#EXTINF:-1 tvg-logo="https://news.fsu.edu/wp-content/uploads/2017/01/387px-PBS_Kids_Dot_2.png" group-title="การ์ตูน",PBS KID
+https://dookeela.live/live-tv/pbskids
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NicktoonsSplat-2023.svg/revision/latest/scale-to-width-down/250?cb=20231227090544" group-title="การ์ตูน",NICK TOONS
+https://dookeela.live/live-tv/nicktoons
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cbeebies/images/0/03/CBeebiesLogo2002present.png/revision/latest?cb=20230328160752" group-title="การ์ตูน",CBEEBIES
+https://dookeela2.live/live-tv/cbeebies
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/0oAe681910" group-title="การ์ตูน",CARTOONITO
+https://dookeela.live/live-tv/cartoonito
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/nerdtec.net/wp-content/uploads/2016/06/anime-2.png" group-title="การ์ตูน",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w362127434.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.picmix.com/output/stamp/normal/3/3/9/7/317933_eed46.gif" group-title="การ์ตูน",NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=836&deviceId=5da0c85bd2c9c10009370984&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://vejasp.abril.com.br/wp-content/uploads/2016/12/chico_bento.png" group-title="การ์ตูน",MONICA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="การ์ตูน",SPACE TOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/p91s936113" group-title="การ์ตูน",ANIME ALL AGES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5be4c6311843b56328bce619&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/t4sd936114" group-title="การ์ตูน",ANIME ALL DAY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
