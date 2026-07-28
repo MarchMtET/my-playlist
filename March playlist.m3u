@@ -686,3 +686,70 @@ https://hls.iptv-th.workers.dev/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/uYjgVMBjGBFUntitled-2.jpg" group-title="สารคดี",MySci
 https://hls.iptv-th.workers.dev/live/211/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ฟรีทีวี",NBT
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1837654225_b3128000.m3u8?null
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="ฟรีทีวี",THAI PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/4Bol643617" group-title="ฟรีทีวี",ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch5.png" group-title="ฟรีทีวี",ททบ 5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w936795822.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png" group-title="ฟรีทีวี",T SPORTS 7
+https://aisplay.ais.co.th/portal/live?vid=67bed24f93395fc0d793cb8e
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ฟรีทีวี",TPTV
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp" group-title="ฟรีทีวี",TNN 16
+https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="ฟรีทีวี",JKN 18
+https://aisplay.ais.co.th/portal/live?vid=637b3a816d6b13ecd5676af4
+
+#EXTINF:-1 tvg-logo="https://www.beartai.com/wp-content/uploads/2013/12/Nation22.png" group-title="ฟรีทีวี",NATION 22
+https://aisplay.ais.co.th/portal/live?vid=6378f08337d179394ce585f4
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="ฟรีทีวี",WORKPOINT
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png" group-title="ฟรีทีวี",TRUE 4 U
+https://true4u.com/live/
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ฟรีทีวี",GMM 25
+https://aisplay.ais.co.th/portal/live?vid=5a702c48d817de6932b0db7a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png" group-title="ฟรีทีวี",CH 8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png" group-title="ฟรีทีวี",MONO 29
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp" group-title="ฟรีทีวี",MCOT HD 30
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w125908331_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ฟรีทีวี",ONE 31
+https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ฟรีทีวี",ไทยรัฐ
+https://aisplay.ais.co.th/portal/live?vid=60bd9c7b497960d3f9a3e222
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/5ff3e.webp" group-title="ฟรีทีวี",CH 3
+https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png" group-title="ฟรีทีวี",AMARIN
+https://aisplay.ais.co.th/portal/live?vid=5b335b61bf6aee16d8c33382
+
+#EXTINF:-1 tvg-logo="https://www.ch7.com/xl/lg/images/Ch-7-HD-Logo-crop.png" group-title="ฟรีทีวี",CH 7
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ฟรีทีวี",PPTV
+https://aisplay.ais.co.th/portal/live?vid=5d4bebb6aae7315312049035
