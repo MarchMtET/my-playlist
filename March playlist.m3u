@@ -753,3 +753,74 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ฟรีทีวี",PPTV
 https://aisplay.ais.co.th/portal/live?vid=5d4bebb6aae7315312049035
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/achE936086" group-title="สารคดี",ANIMAL PLANET
+https://dookeela4.live/live-tv/animal-planet
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/ANKE936095" group-title="สารคดี",NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Real-Wild_1070.png" group-title="สารคดี",REAL WILD
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/KPWG936090" group-title="สารคดี",สำรวจโลก
+https://dookeela.live/live-tv/samrujlok
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/uGaU1047982" group-title="สารคดี",THAINESS
+https://dookeela.live/live-tv/thainess
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/sleS936097" group-title="สารคดี",ANIMAL SHOW
+https://dookeela.live/live-tv/animalshow
+
+#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="สารคดี",LOVE NATURE
+https://dookeela.live/live-tv/lovenature4k
+
+#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png" group-title="สารคดี",LOVE NATURE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/clLd1046803" group-title="สารคดี",BBC EARTH
+https://dookeela.live/live-tv/bbc-earth
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/Dcd4936098" group-title="สารคดี",BBC LIFESTYLE
+https://dookeela.live/live-tv/bbc-lifestyle
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="สารคดี",DISCOVERY
+https://dookeela.live/live-tv/discovery
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305" group-title="สารคดี",DISCOVERY ASIA
+https://dookeela.live/live-tv/discovery-asia
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/og2k972808" group-title="สารคดี",HISTORY
+https://dookeela.live/live-tv/history
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/true1b4a72c61001cb771ea343e629adfb2c8.png" group-title="สารคดี",TRUE EXPLORE WILD
+https://dookeela.live/live-tv/trueexplorewild
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp" group-title="สารคดี",TRUE EXPLORE SCI
+https://dookeela.live/live-tv/trueexploresci
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png" group-title="สารคดี",TRUE EXPLORE LIFE
+https://dookeela.live/live-tv/trueexplorelife
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="สารคดี",FOOD NETWORK ENG
+https://dookeela.live/live-tv/foodnetwork
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/NgIv936099" group-title="สารคดี",ASIAN FOOD CHANNEL
+https://dookeela.live/live-tv/afn
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/800px-TLC_Logo.svg.png" group-title="สารคดี",TLC
+https://dookeela.live/live-tv/tlc
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/xI5n936096" group-title="สารคดี",ถิ่่นใต้
+https://www.inwiptv.com/player_demo.php?channel=61235
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/farm.png" group-title="สารคดี",FARM TV
+https://www.inwiptv.com/player_demo.php?channel=89429
+
+#EXTINF:-1 tvg-logo="https://i-pic.info/i/raw/98AX1209203" group-title="สารคดี",CABLE CHANNEL 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
