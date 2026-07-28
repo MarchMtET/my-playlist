@@ -106,8 +106,3 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
 #EXTINF:-1 tvg-chno="33" tvg-id="iptv36.tptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV
 https://lb-gmmz.sky-cdn.com/gmm/tptv.m3u8
 
-#EXTINF:-1 tvg-chno="34" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",2026-07-27T19:44
-http://iptv36.mooo.com/logo/info.png
-
-#EXTINF:-1 tvg-chno="35" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",https://iptv36.mooo.com/
-http://iptv36.mooo.com/logo/info.png
