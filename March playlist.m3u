@@ -2904,3 +2904,258 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="การ์ตูนเด็กๆ",Afarin TV (720p) [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",📻 COOL fahrenheit
+https://coolism-web.cdn.byteark.com/;stream/1
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/efm.png",📻 EFM
+https://atimehd.smartclick.co.th/efm/hls/efm.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/greenwave.png",📻 GREEN WAVE
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/met107.png",📻 MET 107
+https://eb27a17z.mcot.net/FM107/fm107.stream_aac/chunklist_w103872406.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/active99fm.png",📻 Active FM99
+https://uiu6f1j7.mcot.net/FM99/fm99.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/965fm.png",📻 คลื่นความคิด FM96.5
+https://e4hq2o44.mcot.net/FM965/fm965.stream_aac/chunklist_w1982010370.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/mcotnewsnetwork.png",📻 News Network
+https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/mellow975.png",📻 Mellow 97.5
+https://tkx5l99p.mcot.net/Mellow/fm975.stream_aac/chunklist_w488259280.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm95.png",📻 ลูกทุ่งมหานคร FM95
+https://t24d2ljc.mcot.net/FM95/fm95.stream_aac/chunklist_w1826020205.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/flex10452.png",📻 Flex 104.5
+https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/cityradio9025.png",📻 City Radio 90.25
+https://media.onair.one:8200/1/;
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/js100.png",📻 จส.100
+https://djstreamsv1.hostpleng.cloud/4BsH
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm106family.png",📻 วิทยุครอบครัวข่าว
+https://radio11.plathong.net/7138/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm91.png",📻 สวพ. FM91
+https://www.fm91bkk.com:8900/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/qualitynewsstation.png",📻 สวท.FM 97 MHz
+https://cdn-th2.login.in.th/shoutcast/8610
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smartnews905.png",📻 มิติข่าว 90.5
+http://www.smartbomb.co.th/streaming/audio_player.php?channel=ODYyNA==
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sunshine.png",📻 Sunshine Radio
+https://cdn-th2.livestreaming.in.th/shoutcast/8030
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/94fmclubradio.png",📻 94FMCLUB
+https://plus.onair.network:8130/94fmclub2
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/xfmnetwork.png",📻 XFM Chiangmai
+https://radio12.plathong.net/7360/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/895pattaya.png",📻 LIVE 89.5
+https://4118.radio4.thzhost.com/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/yesterday.png",📻 Yesterday FM106.5
+https://4122.radio4.thzhost.com/;stream
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/mazzradio.png",📻 MAZZ Radio FM97
+https://4096.radio2.thzhost.com/;stream
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smile9525.png",📻 Smile FM95.25
+https://radio12.plathong.net/8846/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smile101.png",📻 สไมล์ลูกทุ่ง FM101
+https://radio12.plathong.net/8612/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/wowradio.png",📻 WOW RADIO ONLINE
+https://inter.wowradiohit.com/radio/8000/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/rukthailooktung.png",📻 รักไทยลูกทุ่ง
+https://radio11.plathong.net/8896/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sbt.png",📻 ธรรมะหลวงตามหาบัว
+http://122.155.12.107/luangta/Siangdham-Radio-Live.html
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/request.png",📻 เพลงสตริง
+https://cast.requestradio.in.th:810/;stream
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestlooktung.png",📻 เพลงลูกทุ่ง
+https://cast.requestradio.in.th:820/;stream
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestlife.png",📻 เพลงเพื่อชีวิต
+https://cast.requestradio.in.th:830/;stream
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestinter.png",📻 เพลงสากล
+https://cast.requestradio.in.th:840/;stream
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestdance.png",📻 เพลงแดนซ์
+https://cast.requestradio.in.th:850/;stream
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png",📻 SukSon เพลงไทยสากล
+https://stream.pjcdn.com:9000/SuksonRadio
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png",📻 SukSon เพลงสากล
+https://stream.pjcdn.com:8000/1;&type=mp3
+
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png",📻 SukSon เพลงลูกทุ่ง
+https://stream.pjcdn.com:8200/1;&type=mp3
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/08/47rrdQ6k9B-560x560.jpg",PASSION FM
+https://media.onair.one/8170/my/;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/FM89LOPBURI-560x560.jpg",FM 89 I AM RADIO
+https://media.onair.one:8030/fm89
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/09/RADIOTH-895-560x560.jpg",FM 89.5 RADIO THAILAND
+https://radio-org-01-ott.prd.go.th/ska_fm89_50
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/09/linerichmessage-onair-media-g-560x560.jpg",FM 89.5 , FM 92 ดนตรีสีสัน
+https://media.onair.one:8170/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/8975-10625-8975-560x560.jpg",FM 89.75
+https://media.onair.one/8010/8975/;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/02/linerichmessage-492-560x560.jpg",FM 90.25 CITY RADIO
+https://link.cityradiopattaya.com/8200/1/;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/09/RADIOTH-905-560x560.jpg",📻  FM 90.5 RADIO THAILAND
+https://radio-org-01-ott.prd.go.th/ska_fm90_5
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/444489281_1018338006529927_3971246088966105095_n-560x560.jpg",📻  FM 91 PATTAYA MUNDEE
+https://link.cityradiopattaya.com/8100/OBdirect/;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/LOGO1040x1040-border-560x560.jpg",📻  FM 92 WE LOVE
+https://plus.onair.network:8120/stream/2;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/274166638_4842453472489815_8662340256238586135_n-560x560.jpg",📻  FM 93 LOVE RADIO
+https://media.onair.one:8090/onair
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/linerichmessage-560x560.jpg",📻  FM 94 FMCLUB
+https://media.onair.one:8130/94fmclub
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/97jpeg.jpg",📻  FM 97 TOURIST STATION ยุติการออกอากาศ
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:9006/live
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/FM98-YALA-560x560.jpg",📻  FM 98 YALA
+https://a.hostpleng.cloud/9098/stream
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2026/01/10225-560x560.jpg",📻  FM 98 Dongtan Beach
+https://media.onair.one:8030/98
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/fhasai-logo-560x560.png",📻  FM 99.75 ฟ้าใสเรดิโอ
+https://media.onair.one/8030/9975/;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/d26a29ccd8ab4c0c0e1590f4272ea9cb_full.png",📻  จส.100
+https://cdn-th2.livestreaming.in.th/shoutcast/8510
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/08/linerichmessage-101-560x560.jpg",📻  FM 101 ลีลาลำปาง
+https://uk20freenew.listen2myradio.com/live.mp3?typeportmount=s1_39041
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/363359382_1024167925604080_901920639986926123_n-560x560.jpg",📻  FM 106 วิทยุครอบครัวข่าว
+https://radio11.plathong.net/7138/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/03/AppleRadio-106-560x560.jpg",📻  FM 106 APPLE RADIO
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:8340/;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/8975-10625-10625-560x560.jpg",📻  FM 106.25
+https://media.onair.one/8010/10625/;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/420954825_895023462631325_2047824488494027012_n.jpg",📻  FM 107.75 INDY FM
+https://media.onair.one:8010/STUINDY.mp3
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/348224348_251833727395701_7810294511084235077_n.png",📻  FM 107.75 MCOT
+http://rstream.mcot.net:9022
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/VOA1-560x560.png",📻  VOA1 The Hits
+https://stream.radiojar.com/zpd8p6fgq3quv
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/content_1_bg_sd_20240910_032824-560x540.jpg",📻  PASSION AM
+https://media.onair.one:8170/am
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/sunshine-logo.jpg",📻  SUNSHINE RADIO THAILAND
+https://cdn-th2.livestreaming.in.th/shoutcast/8030
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/tower-1.png",📻  VOA Thai ข่าวสดสายตรงจาก วีโอเอไทย
+https://stream.radiojar.com/7vpdu5as92quv
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/08/488248582_1301952425041915_7441289878781400160_n-560x560.jpg",📻  FM 88 MHz วิทยุ มอ.หาดใหญ่
+https://media.onair.one:8120/stream/1/
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/01/347848119_1439908946771482_2961914427424320825_n-560x560.jpg",📻  FM 107.25 MHz วิทยุ มอ.ปัตตานี
+https://plus.onair.network:8170/psup
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",📻  วิทยุ ม.ก. บางเขน
+http://radio.vpsthai.net:8042/
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",📻  วิทยุเพื่อการเกษตร
+https://cdn-th2.livestreaming.in.th/shoutcast/8145
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",📻  Surf Radio
+https://stream.surf.radio//surf1025
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/04/ThaiWeatherRadio-560x560.jpg",📻  Thai Weather Radio
+http://www.radio.tmd.go.th:8014/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/02/305561011_754459848848515_1540767025656647185_n-1-560x560.jpg",📻  ดนตรีสีสัน
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:9102/;
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",📻  95 TheSPOT FM
+https://audio-edge-jfbmv.sin.d.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/on-air-1-1.png",📻  FM 91 TRAFFIC PRO
+https://www.fm91bkk.com:8900/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/09/ตชด-560x560.jpg",📻  FM 104 ตำรวจตระเวนชายแดน
+https://cdn-th2.livestreaming.in.th/shoutcast/8650
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",📻  AM 1098 kHz
+https://www.fm91bkk.com:9170/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/10/images-1.jpg",📻  KU RADIO+ วิทยุ ม.ก. สงขลา
+https://radio12.plathong.net/7346/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.voiceofnavy.com/imgs/radio1-1.gif",วิทยุเสียงจากทหารเรือ 1
+https://radio12.plathong.net/7346/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.voiceofnavy.com/imgs/radio1-2.gif",วิทยุเสียงจากทหารเรือ 2
+https://radio12.plathong.net/8660/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.voiceofnavy.com/imgs/radio1-3.gif",วิทยุเสียงจากทหารเรือ 3
+https://radio12.plathong.net/8648/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.voiceofnavy.com/imgs/radio2.gif",วิทยุเสียงจากทหารเรือ 4
+https://radio12.plathong.net/9912/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.voiceofnavy.com/imgs/radio3.gif",วิทยุเสียงจากทหารเรือ 5
+https://radio12.plathong.net/9924/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.voiceofnavy.com/imgs/radio3-1.gif",วิทยุเสียงจากทหารเรือ 6
+https://radio12.plathong.net/7354/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.voiceofnavy.com/imgs/radio4.gif",วิทยุเสียงจากทหารเรือ 7
+https://radio12.plathong.net/7356/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.voiceofnavy.com/imgs/radio4-1.gif",วิทยุเสียงจากทหารเรือ 8
+https://radio12.plathong.net/7358/;stream.mp3
+
