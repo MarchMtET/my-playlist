@@ -2731,58 +2731,176 @@ https://dood.to/e/92v9i3xbtf50
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png", อนุบาลปีที่ 1
-https://cdn-live.dltv.ac.th/dltv10.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png", อนุบาลปีที่ 2
-https://cdn-live.dltv.ac.th/dltv11.m3u8
- 
-#EXTINF:-1  tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png", อนุบาลปีที่ 3
-https://cdn-live.dltv.ac.th/dltv12.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png", ประถมศึกษา ปีที่ 1
-https://cdn-live.dltv.ac.th/dltv01.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png", ประถมศึกษา ปีที่ 2
-https://cdn-live.dltv.ac.th/dltv02.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png", ประถมศึกษา ปีที่ 3
-https://cdn-live.dltv.ac.th/dltv03.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png", ประถมศึกษา ปีที่ 4
-https://cdn-live.dltv.ac.th/dltv04.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png", ประถมศึกษา ปีที่ 5
-https://cdn-live.dltv.ac.th/dltv05.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png", ประถมศึกษา ปีที่ 6
-https://cdn-live.dltv.ac.th/dltv06.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png", มัธยมศึกษาปีที่ 1
-https://cdn-live.dltv.ac.th/dltv07.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png", มัธยมศึกษาปีที่ 2
-https://cdn-live.dltv.ac.th/dltv08.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png", มัธยมศึกษาปีที่ 3
-https://cdn-live.dltv.ac.th/dltv09.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png", อาชีวศึกษา
-https://cdn-live.dltv.ac.th/dltv13.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png", อุดมศึกษา
-https://cdn-live.dltv.ac.th/dltv14.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png", ครู
-https://cdn-live.dltv.ac.th/dltv15.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.etvthai.tv/images_new/logo.png", ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oOBg359018.png", EBS+ 1
-http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
- 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/CAgr359019.png", EBS+ 2
-http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NeZsNcV.gif" group-title="การ์ตูนเด็กๆ",Boomerang
+https://mvtv.co.th/play/play_mvtv.php?no=153&channel=Boomerang
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="การ์ตูนเด็กๆ",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="การ์ตูนเด็กๆ",Disney Channel
+http://89.105.221.127/Disney/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/2009_Disney_XD_HD_logo.png" group-title="การ์ตูนเด็กๆ",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/2009_Disney_XD_HD_logo.png" group-title="การ์ตูนเด็กๆ",Disney XD (v2)
+https://famelack.com/tv/all/VJ5gw1qkZks4rp
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg" group-title="การ์ตูนเด็กๆ",Cartoon
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RCKM4G092tk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDSqn-Dvn_3O7cync87Iyyziqii3Q" group-title="การ์ตูนเด็กๆ",KartoonChannel-A
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/11f5s9az45jzs0c/garfield.png" group-title="การ์ตูนเด็กๆ",Garfield
+https://stitcher.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d659823b-ab76-11f0-8885-76cc8bb1c4b8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9ow1yzygeqe90n0/Tom.png" group-title="การ์ตูนเด็กๆ",Tom & Jerry
+https://bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/l5pwrrbh0ze76jbcma5l5/bean.png?rlkey=3ulk71dner11v83mbwng65ya3&st=fivxjfce&raw=1" group-title="การ์ตูนเด็กๆ",Mr. Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/a16a7375534d.png" group-title="การ์ตูนเด็กๆ",Mr. Bean v2
+https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/1591006581a0.png" group-title="การ์ตูนเด็กๆ",Banijay Mr Bean Classic
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CBnLpsM/IMG-3032.png" group-title="การ์ตูนเด็กๆ",Barbie and Friends
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11075
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AwlonqTyz1bVUPmP2r1fW8MFPi2mCawmWF1ON96K0LzPKYxtUncBU-ainItYRRLMQwW-TE_IWmM=s900-c-k-c0x00ffffff-no-rj" group-title="การ์ตูนเด็กๆ",EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYyAs7r1ZLU5vyGEUY04BOS-fA080JyCwNg&s" group-title="การ์ตูนเด็กๆ",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g7yuPZCXMa4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDjwvDpMTsnv2YJ54c9Y3vt6mzfDQ" group-title="การ์ตูนเด็กๆ",Babyshark
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r1OnycFpwvWlDHrp5ZW04yY2_nBbUv7IpA&s" group-title="การ์ตูนเด็กๆ",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GCUdV7tHmEA/maxresdefault.jpg" group-title="การ์ตูนเด็กๆ",Babyshark v2
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/toon-goggles-icon-rectangle-diagonal-w-small-tg_0.jpg" group-title="การ์ตูนเด็กๆ",Toon Goggles v2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/tgjr_1.png" group-title="การ์ตูนเด็กๆ",TG Junior
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT68foF8NgpRKOzX3fVc3Tz2LA_UJUw6kFCsQ&s" group-title="การ์ตูนเด็กๆ",Sparkle Power
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
+
+#EXTINF:-1 tvg-logo="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386180/67469f0852235b6b09766afb231cf0c485d8150c/header.jpg?t=1768288820" group-title="การ์ตูนเด็กๆ",CrossOut TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QBwLjv5zLGg2R8oIgbBC1Vp_mL-aOqIuFg&s" group-title="การ์ตูนเด็กๆ",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/moviearticle/2023/02/14/3d2c58e0-ac49-11ed-91bf-dd4cb0d2e4ac_webp_original.jpg" group-title="การ์ตูนเด็กๆ",One Piece
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c
+
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="การ์ตูนเด็กๆ",Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="การ์ตูนเด็กๆ",ARB Gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="การ์ตูนเด็กๆ",Baby Shark TV (720p)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="การ์ตูนเด็กๆ",Biznet Kids (480p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 tvg-id="Bolajon.uz" tvg-logo="https://i.imgur.com/s7o0ifu.png" group-title="การ์ตูนเด็กๆ",Bolajon (576p)
+https://stream8.cinerama.uz/1007/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="การ์ตูนเด็กๆ",Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="การ์ตูนเด็กๆ",EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" group-title="การ์ตูนเด็กๆ",Iunior TV (1080p)
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="การ์ตูนเด็กๆ",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KetchupTV.us" tvg-logo="https://i.imgur.com/XRGioQX.png" group-title="การ์ตูนเด็กๆ",Ketchup TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+
+#EXTINF:-1 tvg-id="KiKA.de" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="การ์ตูนเด็กๆ",KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+#EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="การ์ตูนเด็กๆ",Minimax (576p)
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="การ์ตูนเด็กๆ",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTVChildrenChannel.cn" tvg-logo="https://i.imgur.com/MOMEgMQ.png" group-title="การ์ตูนเด็กๆ",Nei Monggol TV Children Channel
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="การ์ตูนเด็กๆ",Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="การ์ตูนเด็กๆ",ORF Kids (720p)
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+
+#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="การ์ตูนเด็กๆ",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AvidamodernadeRocko.us" tvg-logo="https://i.imgur.com/RvApdck.png" group-title="การ์ตูนเด็กๆ",Pluto TV A vida moderna de Rocko (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="AsPistasdeBlue.us" tvg-logo="https://i.imgur.com/0xuwIJB.png" group-title="การ์ตูนเด็กๆ",Pluto TV As Pistas de Blue (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="RoyaKids.jo@SD" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="การ์ตูนเด็กๆ",Roya Kids
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RoyaKidsOriginals.jo" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="การ์ตูนเด็กๆ",Roya Kids Originals (1080p)
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="การ์ตูนเด็กๆ",Ryan and Friends (1080p)
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkwadPlay.us" tvg-logo="https://i.imgur.com/cP56PrG.png" group-title="การ์ตูนเด็กๆ",SKWAD (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="การ์ตูนเด็กๆ",STS kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-logo="https://i.imgur.com/3k4F7O9.png" group-title="การ์ตูนเด็กๆ",Super Simple Songs (1080p)
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TomAndJerry.us@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="การ์ตูนเด็กๆ",Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="การ์ตูนเด็กๆ",Toon Goggles (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+
+#EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="การ์ตูนเด็กๆ",TVCARiB Kids & Teens (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="การ์ตูนเด็กๆ",TVS Hi Tops (720p)
+https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" group-title="การ์ตูนเด็กๆ",ZB Cartoon (1080p)
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kPYtVBm2U4p0iTEoqOzeoO1FcpqH3HBR1g&s" group-title="การ์ตูนเด็กๆ",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="การ์ตูนเด็กๆ",13 Kids (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="การ์ตูนเด็กๆ",Afarin TV (720p) [Not 24/7]
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 
