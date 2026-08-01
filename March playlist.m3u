@@ -2719,3 +2719,70 @@ https://dood.to/e/w0fkfmmgdzyj
 
 #EXTINF:-1 tvg-logo="https://hanimesubth.com/uploads/90b3410c8de8c1bf3ecf462d4f042fa9gxzCOjN.jpg?v=100" group-title="Katainaka ni Totsui de Kita Russia Musume to H Shimakuru Ohanashi",Katainaka ni Totsui de Kita Russia Musume to H Shimakuru Ohanashi Vol.4
 https://dood.to/e/92v9i3xbtf50
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png", อนุบาลปีที่ 1
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png", อนุบาลปีที่ 2
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png", อนุบาลปีที่ 3
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png", ประถมศึกษา ปีที่ 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png", ประถมศึกษา ปีที่ 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png", ประถมศึกษา ปีที่ 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png", ประถมศึกษา ปีที่ 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png", ประถมศึกษา ปีที่ 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png", ประถมศึกษา ปีที่ 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png", มัธยมศึกษาปีที่ 1
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png", มัธยมศึกษาปีที่ 2
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png", มัธยมศึกษาปีที่ 3
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png", อาชีวศึกษา
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png", อุดมศึกษา
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png", ครู
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.etvthai.tv/images_new/logo.png", ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/oOBg359018.png", EBS+ 1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/CAgr359019.png", EBS+ 2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+
+
